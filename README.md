@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I'm Kavya Gediya! 👋<br><br>🎓 Computer Science student at McMaster University.<br><br>💻 Interested in software development, embedded systems, and exploring different areas of computer science.<br><br>⚛️ Currently curious about quantum computing and emerging technologies.<br><br>🤖 Building projects that combine software, hardware, and creative problem-solving.<br><br>🌱 Always learning, experimenting, and looking for opportunities to contribute to open source and collaborate with other developers.<br><br>🚀 Open to co-op opportunities, interesting projects, and new challenges.
+ Hey, I'm Kavya Gediya! 👋<br><br>🎓 Computer Science student at McMaster University.<br><br>💻 Interested in software development, embedded systems, and exploring different areas of computer science.<br><br>⚛️ Currently curious about quantum computing and emerging technologies.<br><br>🤖 Building projects that combine software, hardware, and creative problem-solving.<br><br>🌱 Always learning, experimenting, and looking for opportunities to contribute to open source and collaborate with other developers.<br><br>🚀 Open to co-op opportunities, interesting projects, and new challenges.
 
 
 ## 🌐 Socials:
